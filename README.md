@@ -4,8 +4,7 @@
   </h1>
   
   <h3 align="center">Fast passive Hash Cracking Tool..</h3>
-  
-  
+
  
   
   <p align="center">
@@ -13,9 +12,14 @@
     <a href="#Installation">Install</a> •
     <a href="#Usage">Usage</a> •
    
+
+   
   </p>
   
+   ![License](https://img.shields.io/github/license/Hacker-SriDhar/Hash-Lee)
+   
   ---
+  
   
   
   `Hash-Lee` is a Hash Cracking Tool  that returns valid Value for the Hash from the given WordList, using Python. It has a simple, modular architecture and is optimized for speed. `Hash-Lee` is built for
@@ -53,7 +57,11 @@
   ```sh
    git clone https://github.com/Hacker-SriDhar/Hash-Lee.git
   ```
-  
+
+    
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
   
   
